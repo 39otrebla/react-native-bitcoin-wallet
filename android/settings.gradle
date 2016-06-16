@@ -1,0 +1,3 @@
+rootProject.name = 'BitcoinWallet'
+
+include ':app'
