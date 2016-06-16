@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/39otrebla/react-native-bitcoin-wallet/branch/master/graph/badge.svg)](https://codecov.io/gh/39otrebla/react-native-bitcoin-wallet)
+
 # **React Native Bitcoin Wallet**
 
 
@@ -14,6 +16,3 @@ React Native Bitcoin Wallet exploits [bitcoinjs-lib](https://github.com/bitcoinj
 ## Donations
 
 ## License
-
-## Author
-Alberto Dallaporta (alberto@nexustech.solutions)
